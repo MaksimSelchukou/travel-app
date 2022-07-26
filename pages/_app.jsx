@@ -1,4 +1,4 @@
-import '../styles/globals.scss'
+import '../assets/styles/globals.scss'
 import 'material-icons/iconfont/material-icons.css';
 
 function MyApp({ Component, pageProps }) {
