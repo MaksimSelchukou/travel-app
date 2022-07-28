@@ -13,7 +13,7 @@ const navItems = [
     },
     {
         icon: 'location_on',
-        link: 'location'
+        link: 'place/kyoto'
     },
     {
         icon: 'person',
